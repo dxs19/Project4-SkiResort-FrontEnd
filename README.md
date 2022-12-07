@@ -1,5 +1,5 @@
 # Project4-SkiResort-FrontEnd
-## ![alt text](https://play-lh.googleusercontent.com/Okz3btgnNcBWX_4SPNoNcyNJd6hA_4ePDw5YEr7YRNuEPyjS1-YvmrgU2ZmzuthQ4Q=w5120-h2880-rw)
+#### ![alt text](https://play-lh.googleusercontent.com/Okz3btgnNcBWX_4SPNoNcyNJd6hA_4ePDw5YEr7YRNuEPyjS1-YvmrgU2ZmzuthQ4Q=w5120-h2880-rw)
 ## Overview: 
 ### In this project I will be creating a ski resort website in which you can look up ski resorts in the east coast. You will be able to see reviews and also see conditions of the ski resort. You will additionally be able to see the weather at these resorts using an api. 
 
